@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmaSecrest
-- 👀 I’m interested in ... Software development/ Cyber secrurity 
-- 🌱 I’m currently learning ...javascript,CSS and html
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ...javascript,CSS,HTML and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...esecrest908@gmail.com
 <!---
